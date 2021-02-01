@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/rodcripe0400/Projeto_Laboratorios/_apis/build/status/rodcripe400.ContosoAir?branchName=master)](https://dev.azure.com/rodcripe0400/Projeto_Laboratorios/_build/latest?definitionId=5&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
